@@ -1,0 +1,7 @@
+admin==0.0.1
+asgiref==3.5.0
+Django==4.0.3
+mysqlclient==2.1.0
+sqlparse==0.4.2
+tzdata==2022.1
+python-decouple==3.3
