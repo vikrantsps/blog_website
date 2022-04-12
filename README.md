@@ -1,3 +1,3 @@
 # blog_website
-Blogswebsite this is demo project 
+Blogswebsite this is a project 
 
